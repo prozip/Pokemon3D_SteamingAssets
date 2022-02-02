@@ -1,0 +1,96 @@
+rowlet
+dartrix
+decidueye
+litten
+torracat
+incineroar
+popplio
+brionne
+primarina
+pikipek
+trumbeak
+toucannon
+yungoos
+gumshoos
+grubbin
+charjabug
+vikavolt
+crabrawler
+crabominable
+oricorio (fire)
+oricorio (electric)
+oricorio (psychic)
+oricorio (ghost)
+cutiefly
+ribombee
+rockruff
+lycanroc (dawn)
+lycanroc (midnight)
+lycanroc (dusk)
+wishiwashi
+wishiwashi (school)
+mareanie
+toxapex
+mudbray
+mudsdale
+dewpider
+araquanid
+fomantis
+lurantis
+morelull
+shiinotic
+salandit
+salazzle
+stufful
+bewear
+bounsweet
+steenee
+tsareena
+comfey
+oranguru
+passimian
+wimpod
+golisopod
+sandygast
+pallosand
+pyukumuku
+null
+silvally (normal-fairy)
+minior (all forms)
+komala
+turtonator
+togedemaru
+mimikyu
+bruxish
+drampa
+dhelmise
+jangmo-o
+hakamo-o
+kommo-o
+tapu koko
+tapu lele
+tapu bulu
+tapu fini
+cosmog
+cosmoem
+solgaleo
+lunala
+nihilego
+buzzwole
+pheromosa
+xurkitree
+celesteela
+kartana
+guzzlord
+necrozma (normal)
+necrozma (solgaleo,dusk mane)
+necrozma (lunala,dawn wings)
+necrozma (ultra)
+magearna
+magearna (original color)
+marshadow
+poipole
+naganadel
+stakataka
+blacephalon
+zeraora

@@ -1,0 +1,157 @@
+turtwig
+grotle
+torterra
+chimchar
+monferno
+infernape
+piplup
+prinplup
+empoleon
+starly
+female starly
+staravia
+female staravia
+staraptor
+female staraptor
+bidoof
+female bidoof
+bibarel
+female bibarel
+kricketot
+female kricketot
+kricketune
+female kricketune
+shinx
+female shinx
+luxio
+female luxio
+luxray
+female luxray
+budew
+roserade
+female roserade
+cranidos
+ramparados
+shieldon
+bastiodon
+burmy (plant)
+burmy (sandy)
+burmy (trash)
+wormadam (plant)
+wormadam (sandy)
+wormadam (trash)
+mothim
+combee
+female combee
+vespiquen
+pachirisu
+female pachirisu
+buizel
+female buizel
+floatzel
+female floatzel
+cherubi
+cherrim (overcast)
+cherrim (sunshine)
+shellos (west)
+shellos (east)
+gastrodon (west)
+gastrodon (east)
+ambipom
+female ambipom
+drifloon
+drifblim
+buneary
+lopunny
+mega lopunny
+mismagius
+honchkrow
+glameow
+purrugly
+chingling
+stunky
+skuntank
+bronzor
+bronzong
+bonsly
+mime jr.
+happiny
+chatot
+spiritomb
+gible
+female gible
+gabite
+female gabite
+garchomp
+female garchomp
+mega garchomp
+munchlax
+riolu
+lucario
+mega lucario
+hippopotas
+female hippopotas
+hippowdon
+female hippowdon
+skorupi
+drapion
+croagunk
+female croagunk
+toxicroak
+female toxicroak
+carnivine
+finneon
+female finneon
+lumineon
+female lumineon
+mantyke
+snover
+female snover
+abomasnow
+female abomasnow
+mega abomasnow
+weavile
+female weavile
+magnezone
+lickilicky
+rhypherior
+female rhypherior
+tangrowth
+female tangrowth
+electivire
+magmortar
+togekiss
+yanmega
+leafeon
+glaceon
+gliscor
+mamoswine
+female mamoswine
+porygon-z
+gallade
+mega gallade
+probopass
+dusknoir
+froslass
+rotom (normal)
+rotom (heat)
+rotom (wash)
+rotom (frost)
+rotom (fan)
+rotom (mow)
+uxie
+mesprit
+azelf
+dialga
+palkia
+heatran
+regigigas
+giratina (altered)
+giratina (origin)
+cresselia
+phione
+manaphy
+darkrai
+shaymin (land)
+shaymin (sky)
+arceus (normal-fairy, in type order)

@@ -1,0 +1,128 @@
+chikorita
+bayleef
+meganium
+female meganium
+cyndaquil
+quilava
+typhlosion
+totodile
+croconaw
+feraligatr
+sentret
+furret
+hoothoot
+noctowl
+ledyba
+female ledyba
+ledian
+female ledian
+spinarak
+ariados
+crobat
+chinchou
+lanturn
+pichu
+cleffa
+igglybuff
+togepi
+togetic
+natu
+xatu
+female xatu
+mareep
+flaaffy
+ampharos
+mega ampharos
+bellossom
+marill
+azumarill
+sudowoodo
+female sudowoodo
+politoed
+female politoed
+hoppip
+skiploom
+jumpluff
+aipom
+female aipom
+sunkern
+sunflora
+yanma
+wooper
+female wooper
+quagsire
+female quagsire
+espeon
+umbreon
+murkrow
+female murkrow
+slowking
+misdreavus
+unown all symbols, in order
+wobbuffet
+female wobbuffet
+girafarig
+female girafarig
+pineco
+forretress
+dunsparce
+gligar
+female gligar
+steelix
+female steelix
+mega steelix
+snubbull
+granbull
+qwilfish
+scizor
+female scizor
+mega scizor
+shuckle
+heracross
+female heracross
+mega heracross
+sneasel
+female sneasel
+teddiursa
+ursaring
+female ursaring
+slugma
+magcargo
+swinub
+piloswine
+female piloswine
+corsola
+remoraid
+octillery
+female octillery
+delibird
+mantine
+skarmory
+houndour
+houndoom
+female houndoom
+mega houndoom
+kingdra
+phanpy
+donphan
+female donphan
+porygon2
+stantler
+smeargle
+tyrogue
+hitmontop
+smoochum
+elekid
+magby
+miltank
+blissey
+raikou
+entei
+suicune
+larvitar
+pupitar
+tyranitar
+mega tyranitar
+lugia
+ho-oh
+celebi

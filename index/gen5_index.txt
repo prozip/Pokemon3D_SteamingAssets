@@ -1,0 +1,175 @@
+victini
+snivy
+servine
+serperior
+tepig
+pignite
+emboar
+oshawott
+dewott
+samurott
+patrat
+watchog
+lillipup
+herdier
+stoutland
+purrloin
+liepard
+pansage
+simisage
+pansear
+simisear
+panpour
+simipour
+munna
+musharna
+pidove
+tranquill
+unfezant
+female unfezant
+blitzle
+zebstrika
+roggenrola
+boldore
+gigalith
+woobat
+swoobat
+drilbur
+excadrill
+audino
+mega audino
+timburr
+gurdurr
+conkeldurr
+tympole
+palpitoad
+seismitoad
+throh
+sawk
+sewaddle
+swadloon
+leavanny
+venipede
+whirlipede
+scolipede
+cottonee
+whimsicott
+petilil
+lilligant
+basculin (red)
+basculin (blue)
+sandile
+krokorok
+krookodile
+darumaka
+darmanitan (standard)
+darmanitan (zen)
+maractus
+dwebble
+crustle
+scraggy
+scrafty
+sigilyph
+yamask
+cofagrigus
+tirtouga
+carracosta
+archen
+archeops
+trubbish
+garbodor
+zorua
+zoroark
+minccino
+cinccino
+gothita
+gothorita
+gothitelle
+solosis
+duosion
+reuniclus
+ducklett
+swanna
+vanillite
+vanillish
+vanilluxe
+deerling (spring)
+deerling (summer)
+deerling (autumn)
+deerling (winter)
+sawsbuck (spring)
+sawsbuck (summer)
+sawsbuck (autumn)
+sawsbuck (winter)
+emolga
+karrablast
+escavalier
+foongus
+amoonguss
+frillish
+female frillish
+jellicent
+female jellicent
+alomomola
+joltik
+galvantula
+ferroseed
+ferrothorn
+klink
+klang
+klinklang
+tynamo
+eelektrik
+eelektross
+elgyem
+beheeyem
+litwik
+lampent
+chandelure
+axew
+fraxure
+haxorus
+cubchoo
+beartic
+cryogonal
+shelmet
+accelgor
+stunfisk
+mienfoo
+mienshao
+druddigon
+golett
+golurk
+pawniard
+bisharp
+bouffalant
+rufflet
+braviary
+vullaby
+mandibuzz
+heatmor
+durant
+deino
+zweilous
+hydreigon
+larvesta
+volcarona
+cobalion
+terrakion
+virizion
+tornadus
+tornadus (therian)
+thundurus
+thundurus (therian)
+reshiram
+zekrom
+landorus
+landorus (therian)
+kyurem
+kyurem (white)
+kyurem (black)
+keldeo (ordinary)
+keldeo (resolute)
+meloetta (aria)
+meloetta (pirouette)
+genesect (all)
